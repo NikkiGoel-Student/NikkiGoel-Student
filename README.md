@@ -98,7 +98,7 @@ I’m always looking for:
 ### 📫 Let's Connect
 
 📧 **Email**: nikitagoel@example.com  
-🔗 **[LinkedIn](https://www.linkedin.com/in/nikita-goel-b0a473299/)** | **[LeetCode](https://leetcode.com/u/I_am_Nikki22/)** | **[HackerRank](https://www.hackerrank.com/profile/nikitagoyel22)** *(Replace with your real links)*
+🔗 **[LinkedIn](https://www.linkedin.com/in/nikita-goel-b0a473299/)** | **[LeetCode](https://leetcode.com/u/I_am_Nikki22/)** | **[HackerRank](https://www.hackerrank.com/profile/nikitagoyel22)** 
 
 ---
 
